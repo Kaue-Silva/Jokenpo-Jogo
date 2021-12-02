@@ -1,0 +1,53 @@
+body {
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.jokenpo {
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.jokenpo img {
+    height: 90px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+hgroup {
+    text-align: center;
+}
+
+.cpu > img {
+    display: none;
+}
+
+p {
+    font-size: 20px;
+}
+
+.usuario {
+    width: 40%;
+    float: left;
+}
+.cpu {
+    float: right;
+}
+
+.resultado {
+    clear: both;
+    text-align: center;
+}
+
+.botao {
+    width: 15%;
+    margin: 0 auto;
+}
+
+.jogar {
+    width: 80px;
+}
